@@ -4,8 +4,9 @@ export const styles = StyleSheet.create({
     container: {
         flex: 1,
         backgroundColor: "#fff",
-        alignItems: "flex-start",
+        alignItems: "center",
         justifyContent: "center",
+        
     },
     text:{
         fontFamily: 'Lato-Regular',
